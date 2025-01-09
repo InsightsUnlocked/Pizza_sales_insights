@@ -1,5 +1,5 @@
 # Pizza_sales_insights
-![pizza_sales_dashboard]()
+![pizza_sales_dashboard](https://github.com/InsightsUnlocked/Pizza_sales_insights/blob/main/Pizza_sales_dashboard.PNG)
 This repository contains an end-to-end analysis of pizza sales data, showcasing the process of data import, SQL-based exploration, validation, and dashboard creation. It highlights essential data analytics skills and provides actionable business insights.
 
 Project Workflow:
